@@ -1,7 +1,9 @@
 # Project 2: Nondeterministic Finite Automata
 
 Authors: Devyn Roth (Section 3) / Phillip Bruce (Section 2)
+
 Class: CS361 Section 2, 3
+
 Semester: Spring 2021
 
 ## Overview:
